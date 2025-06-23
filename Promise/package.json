@@ -1,0 +1,13 @@
+{
+  "name": "promise",
+  "version": "1.0.0",
+  "main": "ex1.js",
+  "type": "module",
+  "scripts": {
+    "ab": "node ex1.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
